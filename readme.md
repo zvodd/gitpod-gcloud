@@ -2,7 +2,8 @@
 
 Spin up a gitpod workspace
 
-(https://gitpod.io/#https://github.com/zvodd/gitpod-gcloud)[https://gitpod.io/#https://github.com/zvodd/gitpod-gcloud]
+[gitpod.io/#https://github.com/zvodd/gitpod-gcloud](https://gitpod.io/#https://github.com/zvodd/gitpod-gcloud)
+
 
 Login
 
