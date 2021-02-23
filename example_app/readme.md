@@ -1,3 +1,6 @@
+This is a hellow world project ready to run locally or deploy to GCP GEA Project Instance.
+Using LabStack's Echo framework V4
+
 ```
 go build && my_example_app -local
 ```
